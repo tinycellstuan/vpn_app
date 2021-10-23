@@ -1,4 +1,4 @@
-package com.lazycoder.cakevpn.adapter;
+package com.lazycoder.SafeVPN.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
